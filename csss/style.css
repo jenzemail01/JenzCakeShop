@@ -1,0 +1,26 @@
+img{
+    width: 100% ;
+}
+
+.intro-cake{
+    padding: 60px ;
+}
+
+.form-login{
+    width: 500px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+    
+}
+
+.group-radius{
+    margin-left: 5px;
+}
+
+.register-page{
+    background-image: url('../images/intro-cake.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+}
